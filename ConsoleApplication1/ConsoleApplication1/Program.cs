@@ -27,6 +27,7 @@ namespace ConsoleApplication1
 
                 Numeros = new List<int>();
 
+
             }
 
             Console.WriteLine(maiorQuantidade);
